@@ -1,5 +1,5 @@
-# soal:
-# contoh perangkat lunak life-critical
+# contoh life-critical software
 
-# jawab:
-# Robotic Surgery machines(robot untuk operasi di rumah sakit), Railway signaling (sinyal jalur kereta api), flight controllers (pengendali pesawat)
+# Robotic Surgery machines(robot untuk mengoperasi pasien di rumah sakit)
+# insulin checker (pengecek kadar insulin pada darah bagi penderita diabetes)
+# flight controllers (pengendali pesawat)
